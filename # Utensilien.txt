@@ -2,3 +2,6 @@
 ## Liste der Utensilien
 - Wasser 
 - Brot
+- Zelt
+- Schlafsack
+- 
